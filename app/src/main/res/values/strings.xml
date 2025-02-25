@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TODOApp</string>
+
+    <string name="titulo_hint">Titlee</string>
+    <string name="descripcion_hint">Description</string>
+    <string name="guardar">Save</string>
+    <string name="cancelar">Cancel</string>
+
+    <string name="estado_pendiente">Pending</string>
+    <string name="estado_en_progreso">In Progress</string>
+    <string name="estado_finalizada">Completed</string>
+
+    <string name="prioridad_alta">High</string>
+    <string name="prioridad_normal">Normal</string>
+    <string name="prioridad_baja">Low</string>
+
+    <string name="menu_nueva_tarea">New Task</string>
+    <string name="menu_mostrar_finalizadas">Show Completed Tasks</string>
+    <string name="menu_mostrar_en_progreso">Show Tasks In Progress</string>
+    <string name="menu_mostrar_pendientes">Show Pending Tasks</string>
+    <string name="menu_lista_tabla">List/Table</string>
+
+    <string name="idioma_ingles">English</string>
+    <string name="idioma_espanol">Spanish</string>
+    <string name="idioma_catalan">Catalan</string>
+
+    <string name="status">Status:</string>
+    <string name="priority">Priority:</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="add_comment">Add Comment</string>
+</resources>

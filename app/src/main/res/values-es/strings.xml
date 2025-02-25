@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Nombre de la App -->
+    <string name="app_name">TODOApp</string>
+
+    <!-- Actividad Nueva Tarea -->
+    <string name="titulo_hint">Título</string>
+    <string name="descripcion_hint">Descripción</string>
+    <string name="guardar">Guardar</string>
+    <string name="cancelar">Cancelar</string>
+
+    <!-- Estados para el Spinner -->
+    <string name="estado_pendiente">Pendiente</string>
+    <string name="estado_en_progreso">En Progreso</string>
+    <string name="estado_finalizada">Finalizada</string>
+
+    <!-- Prioridades para el Spinner -->
+    <string name="prioridad_alta">Alta</string>
+    <string name="prioridad_normal">Normal</string>
+    <string name="prioridad_baja">Baja</string>
+
+    <!-- Menú Principal -->
+    <string name="menu_nueva_tarea">Nueva Tarea</string>
+    <string name="menu_mostrar_finalizadas">Mostrar Tareas Finalizadas</string>
+    <string name="menu_mostrar_en_progreso">Mostrar Tareas en Progreso</string>
+    <string name="menu_mostrar_pendientes">Mostrar Tareas Pendientes</string>
+    <string name="menu_lista_tabla">Lista/Tabla</string>
+
+    <!-- Menú de Idiomas (PopupMenu) -->
+    <string name="idioma_ingles">Inglés</string>
+    <string name="idioma_espanol">Español</string>
+    <string name="idioma_catalan">Catalán</string>
+
+    <!-- Detalle de Tarea -->
+    <string name="status">Estado:</string>
+    <string name="priority">Prioridad:</string>
+    <string name="edit">Editar</string>
+    <string name="delete">Eliminar</string>
+    <string name="add_comment">Agregar Comentario</string>
+</resources>

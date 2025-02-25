@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_nueva_tarea"
+        android:title="@string/menu_nueva_tarea"
+        android:icon="@android:drawable/ic_input_add"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/menu_mostrar_finalizadas"
+        android:title="@string/menu_mostrar_finalizadas"
+        android:checkable="true"
+        android:checked="false" />
+    <item
+        android:id="@+id/menu_mostrar_en_progreso"
+        android:title="@string/menu_mostrar_en_progreso"
+        android:checkable="true"
+        android:checked="true" />
+    <item
+        android:id="@+id/menu_mostrar_pendientes"
+        android:title="@string/menu_mostrar_pendientes"
+        android:checkable="true"
+        android:checked="true" />
+    <item
+        android:id="@+id/menu_lista_tabla"
+        android:title="@string/menu_lista_tabla"
+        android:checkable="true"
+        android:checked="false" />
+</menu>
