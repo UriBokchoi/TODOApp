@@ -11,7 +11,7 @@ public interface ComentarioDao {
 
     @Insert
     long insertar(Comentario comentario);
-
+//
     @Query("SELECT * FROM comentarios WHERE tareaId = :idTarea ORDER BY timestamp")
     List<Comentario> obtenerComentariosPorTarea(int idTarea);
 }
